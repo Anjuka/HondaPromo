@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Honda Promo</string>
 
@@ -10,13 +11,13 @@
     <string name="Sinhala">සිංහල</string>
     <string name="Tamil">தமிழ்</string>
     <string name="languageTitle">Scooty දිනුම් ඇදීම</string>
-    <string name="snakBarTitle">English Language Selected...</string>
+    <string name="snakBarTitle">சிங்கள மொழி தேர்ந்தெடுத்துள்ளது ...</string>
 
     <!--Detail Screen-->
-    <string name="Name">Name :</string>
-    <string name="Age">Age :</string>
-    <string name="District">District :</string>
-    <string name="TP">Mobile :</string>
-    <string name="Next">Next</string>
+    <string name="Name">பெயர் :</string>
+    <string name="Age">வயது :</string>
+    <string name="District">மாவட்டம் :</string>
+    <string name="TP">தொலைபேசி எண்:</string>
+    <string name="Next">அடுத்த</string>
 
 </resources>
