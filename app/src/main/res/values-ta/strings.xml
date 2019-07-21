@@ -20,4 +20,27 @@
     <string name="TP">தொலைபேசி எண்:</string>
     <string name="Next">அடுத்த</string>
 
+    <!--Gender Screen-->
+    <string name="Topic">நீங்கள்,</string>
+    <string name="Mother">ஒரு தாய்</string>
+    <string name="Father">ஒரு தந்தை</string>
+    <string name="Brother">ஒரு சகோதரன்</string>
+    <string name="Sister">ஒரு சகோதரி</string>
+    <string name="Couple">ஒரு ஜோடி</string>
+
+    <!--Answer Buttons-->
+    <string name="Yes">ஆம்</string>
+    <string name="No">இல்லை</string>
+
+    <!--First Quistions Screen-->
+    <string name="FirstQuestion">Are you a mother who thinks safety about you/ your family?</string>
+
+    <!--Pladge Activity-->
+    <string name="Pladge">I pledged as a (Mother, Father, Brother, Sister, Husband/wife) I surely
+        think about safety, comfort and saving money for my family.</string>
+
+    <!--Congrats Activity-->
+    <string name="Congats">Congratulation !</string>
+    <string name="CongratsText">நீங்கள் Honda இறுதி சீட்டிழுப்பு போட்டிக்குள் வெற்றிகரமாக இணைக்கப்பட்டுள்ளீர்கள்.</string>
+
 </resources>

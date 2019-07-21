@@ -19,4 +19,27 @@
     <string name="TP">Mobile :</string>
     <string name="Next">Next</string>
 
+    <!--Gender Screen-->
+    <string name="Topic">You,</string>
+    <string name="Mother">Mother</string>
+    <string name="Father">Father</string>
+    <string name="Brother">Brother</string>
+    <string name="Sister">Sister</string>
+    <string name="Couple">Husband &amp; Wife</string>
+
+    <!--Answer Buttons-->
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+    <!--First Quistions Screen-->
+    <string name="FirstQuestion">Are you a mother who thinks safety about you/ your family?</string>
+
+    <!--Pladge Activity-->
+    <string name="Pladge">I pledged as a (Mother, Father, Brother, Sister, Husband/wife) I surely
+        think about safety, comfort and saving money for my family.</string>
+
+    <!--Congrats Activity-->
+    <string name="Congats">Congratulation !</string>
+    <string name="CongratsText">You have entered in to the Honda final draw successfully.</string>
+
 </resources>

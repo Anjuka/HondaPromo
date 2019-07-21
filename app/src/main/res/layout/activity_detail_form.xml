@@ -155,7 +155,7 @@
                         android:focusableInTouchMode="true" />
 
                     <Button
-                        android:id="@+id/btnSinhala"
+                        android:id="@+id/btnNext"
                         android:layout_width="400dp"
                         android:layout_height="100dp"
                         android:layout_gravity="center_horizontal"

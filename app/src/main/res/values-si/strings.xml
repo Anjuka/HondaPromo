@@ -19,4 +19,27 @@
     <string name="District">දිස්ත්‍රික්කය :</string>
     <string name="TP">දු.ක අංකය :</string>
     <string name="Next">ඉදිරියට</string>
+
+    <!--Gender Screen-->
+    <string name="Topic">ඔබ,</string>
+    <string name="Mother">මවක්</string>
+    <string name="Father">පියෙක්</string>
+    <string name="Brother">සහෝදරයෙක්</string>
+    <string name="Sister">සහෝදරියක්</string>
+    <string name="Couple">අඹුසැමියන්</string>
+
+    <!--Answer Buttons-->
+    <string name="Yes">ඔව්</string>
+    <string name="No">නැත</string>
+
+    <!--First Quistions Screen-->
+    <string name="FirstQuestion">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන මවක්ද?</string>
+
+    <!--Pladge Activity-->
+    <string name="Pladge">මම පවුලේ ආරක්ෂාව, සැපපහසුව සහ ඉතිරිය ගැන හිතන මවක්/පියෙක්/... ලෙසට ප්‍රතිඥා දෙමි.</string>
+
+    <!--Congrats Activity-->
+    <string name="Congats">Congratulation !</string>
+    <string name="CongratsText">ඔබ Honda අවසන් දිනුම් ඇඳීමේ තරඟයට සාර්ථකව ඇතුළත් වී ඇත.</string>
+
 </resources>
