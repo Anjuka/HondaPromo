@@ -16,7 +16,7 @@
     <!--Detail Screen-->
     <string name="Name">නම :</string>
     <string name="Age">වයස :</string>
-    <string name="District">දිස්ත්‍රික්කය :</string>
+    <string name="City">නගරය :</string>
     <string name="TP">දු.ක අංකය :</string>
     <string name="Next">ඉදිරියට</string>
 
@@ -35,11 +35,20 @@
     <!--First Quistions Screen-->
     <string name="FirstQuestion">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන මවක්ද?</string>
 
+    <!--Second Quistions Screen-->
+    <string name="SecondQuestion">එසේනම් ඔබ ස්කූටරයක් මිළදී ගැනීමේදී තත්වයෙන් උසස්, පාරිභෝගික විශ්වාසය දිනාගත් යතුරුපැදි නාමයක් පිලිබදව අවධානය යොමු කරන්නේද?</string>
+
     <!--Pladge Activity-->
     <string name="Pladge">මම පවුලේ ආරක්ෂාව, සැපපහසුව සහ ඉතිරිය ගැන හිතන මවක්/පියෙක්/... ලෙසට ප්‍රතිඥා දෙමි.</string>
 
     <!--Congrats Activity-->
     <string name="Congats">Congratulation !</string>
     <string name="CongratsText">ඔබ Honda අවසන් දිනුම් ඇඳීමේ තරඟයට සාර්ථකව ඇතුළත් වී ඇත.</string>
+
+    <!--First Add Screen-->
+    <string name="FirstAdd">ඉතා අඩු දුරකදී ආරක්ශාකාරීව ස්කූටරය නවත්වා ගත හැක, ධාවනය අතරතුරදී ටයර පලූදු වීමෙන් සිදුවන ක්ෂණික හුලන් කාන්දුවීම් වළක්වාලයි</string>
+
+    <!--Second Add Screen-->
+    <string name="SecondAdd">Automatic Headlamp On (AHO )</string>
 
 </resources>

@@ -28,7 +28,7 @@
             android:layout_marginLeft="20dp"
             android:text="@string/Topic"
             android:textColor="@color/textYellow"
-            android:textSize="50dp"
+            android:textSize="40dp"
             android:textStyle="bold" />
 
         <LinearLayout
@@ -36,68 +36,69 @@
             android:layout_height="match_parent"
             android:layout_gravity="center_horizontal"
             android:background="@color/colorPrimary"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:layout_marginBottom="15dp">
 
             <Button
                 android:id="@+id/btnMother"
                 android:layout_width="400dp"
-                android:layout_height="100dp"
+                android:layout_height="80dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="40dp"
+                android:layout_marginTop="30dp"
                 android:background="@drawable/boder_style"
                 android:text="@string/Mother"
                 android:textColor="@color/textYellow"
-                android:textSize="50dp"
+                android:textSize="35dp"
                 android:textStyle="bold" />
 
             <Button
                 android:id="@+id/btnFather"
                 android:layout_width="400dp"
-                android:layout_height="100dp"
+                android:layout_height="80dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="40dp"
+                android:layout_marginTop="30dp"
                 android:background="@drawable/boder_style"
                 android:text="@string/Father"
                 android:textColor="@color/textYellow"
-                android:textSize="50dp"
+                android:textSize="35dp"
                 android:textStyle="bold" />
 
 
             <Button
                 android:id="@+id/btnBrother"
                 android:layout_width="400dp"
-                android:layout_height="100dp"
+                android:layout_height="80dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="40dp"
+                android:layout_marginTop="30dp"
                 android:background="@drawable/boder_style"
                 android:text="@string/Brother"
                 android:textColor="@color/textYellow"
-                android:textSize="50dp"
+                android:textSize="35dp"
                 android:textStyle="bold" />
 
             <Button
                 android:id="@+id/btnSister"
                 android:layout_width="400dp"
-                android:layout_height="100dp"
+                android:layout_height="80dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="40dp"
+                android:layout_marginTop="30dp"
                 android:background="@drawable/boder_style"
                 android:text="@string/Sister"
                 android:textColor="@color/textYellow"
-                android:textSize="50dp"
+                android:textSize="35dp"
                 android:textStyle="bold" />
 
 
             <Button
                 android:id="@+id/btnCouple"
                 android:layout_width="400dp"
-                android:layout_height="100dp"
+                android:layout_height="80dp"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginTop="40dp"
+                android:layout_marginTop="30dp"
                 android:background="@drawable/boder_style"
                 android:text="@string/Couple"
                 android:textColor="@color/textYellow"
-                android:textSize="50dp"
+                android:textSize="35dp"
                 android:textStyle="bold" />
 
 

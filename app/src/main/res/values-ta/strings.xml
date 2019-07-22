@@ -16,7 +16,7 @@
     <!--Detail Screen-->
     <string name="Name">பெயர் :</string>
     <string name="Age">வயது :</string>
-    <string name="District">மாவட்டம் :</string>
+    <string name="City">நகரம் :</string>
     <string name="TP">தொலைபேசி எண்:</string>
     <string name="Next">அடுத்த</string>
 
@@ -35,6 +35,10 @@
     <!--First Quistions Screen-->
     <string name="FirstQuestion">Are you a mother who thinks safety about you/ your family?</string>
 
+    <!--Second Quistions Screen-->
+    <string name="SecondQuestion">If so, when you buy a scooter, do you think quality , good brand name,
+        custormer trust,are main charactors that needto be concerned?</string>
+
     <!--Pladge Activity-->
     <string name="Pladge">I pledged as a (Mother, Father, Brother, Sister, Husband/wife) I surely
         think about safety, comfort and saving money for my family.</string>
@@ -42,5 +46,11 @@
     <!--Congrats Activity-->
     <string name="Congats">Congratulation !</string>
     <string name="CongratsText">நீங்கள் Honda இறுதி சீட்டிழுப்பு போட்டிக்குள் வெற்றிகரமாக இணைக்கப்பட்டுள்ளீர்கள்.</string>
+
+    <!--First Add Screen-->
+    <string name="FirstAdd">Combi Brake System | Tubeless Tires</string>
+
+    <!--Second Add Screen-->
+    <string name="SecondAdd">Automatic Headlamp On (AHO )</string>
 
 </resources>

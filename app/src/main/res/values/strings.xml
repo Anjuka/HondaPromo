@@ -15,7 +15,7 @@
     <!--Detail Screen-->
     <string name="Name">Name :</string>
     <string name="Age">Age :</string>
-    <string name="District">District :</string>
+    <string name="City">City :</string>
     <string name="TP">Mobile :</string>
     <string name="Next">Next</string>
 
@@ -34,6 +34,10 @@
     <!--First Quistions Screen-->
     <string name="FirstQuestion">Are you a mother who thinks safety about you/ your family?</string>
 
+    <!--Second Quistions Screen-->
+    <string name="SecondQuestion">If so, when you buy a scooter, do you think quality , good brand name,
+        custormer trust,are main charactors that needto be concerned?</string>
+
     <!--Pladge Activity-->
     <string name="Pladge">I pledged as a (Mother, Father, Brother, Sister, Husband/wife) I surely
         think about safety, comfort and saving money for my family.</string>
@@ -41,5 +45,11 @@
     <!--Congrats Activity-->
     <string name="Congats">Congratulation !</string>
     <string name="CongratsText">You have entered in to the Honda final draw successfully.</string>
+
+    <!--First Add Screen-->
+    <string name="FirstAdd">Combi Brake System | Tubeless Tires</string>
+
+    <!--Second Add Screen-->
+    <string name="SecondAdd">Automatic Headlamp On (AHO )</string>
 
 </resources>

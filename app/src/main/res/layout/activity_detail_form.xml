@@ -5,7 +5,11 @@
     android:id="@+id/coordinator"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashActivity">
+    tools:context=".SplashActivity"
+
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
 
 
     <LinearLayout
@@ -13,22 +17,24 @@
         android:layout_height="match_parent"
         android:layout_gravity="center_horizontal"
         android:background="@color/colorPrimary"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:id="@+id/llmain">
 
         <ImageView
             android:layout_width="450dp"
             android:layout_height="150dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="20dp"
             android:background="@drawable/honda_main_logo" />
 
-        <ScrollView
+        <androidx.core.widget.NestedScrollView
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:scrollbars="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="50dp"
                 android:background="@color/colorPrimary"
@@ -40,7 +46,7 @@
                     android:layout_marginLeft="20dp"
                     android:text="@string/Name"
                     android:textColor="@color/textYellow"
-                    android:textSize="50dp"
+                    android:textSize="35dp"
                     android:textStyle="bold" />
 
 
@@ -48,7 +54,7 @@
 
                     android:id="@+id/etName"
                     android:layout_width="match_parent"
-                    android:layout_height="100dp"
+                    android:layout_height="70dp"
                     android:layout_marginLeft="20dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="30dp"
@@ -57,16 +63,8 @@
                     android:textAlignment="center"
                     android:textColor="@color/black"
                     android:textCursorDrawable="@drawable/color_cursor"
-                    android:textSize="50dp"
-                    android:textStyle="bold"
-                    android:focusableInTouchMode="true" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:background="@color/colorPrimary"
-                    android:orientation="vertical">
+                    android:textSize="35dp"
+                    android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -75,7 +73,7 @@
                         android:layout_marginTop="20dp"
                         android:text="@string/Age"
                         android:textColor="@color/textYellow"
-                        android:textSize="50dp"
+                        android:textSize="35dp"
                         android:textStyle="bold" />
 
 
@@ -83,7 +81,7 @@
 
                         android:id="@+id/etAge"
                         android:layout_width="match_parent"
-                        android:layout_height="100dp"
+                        android:layout_height="70dp"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="30dp"
@@ -92,25 +90,24 @@
                         android:textAlignment="center"
                         android:textColor="@color/black"
                         android:textCursorDrawable="@drawable/color_cursor"
-                        android:textSize="50dp"
-                        android:textStyle="bold"
-                        android:focusableInTouchMode="true" />
+                        android:textSize="35dp"
+                        android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="20dp"
-                        android:text="@string/District"
+                        android:text="@string/City"
                         android:textColor="@color/textYellow"
-                        android:textSize="50dp"
+                        android:textSize="35dp"
                         android:textStyle="bold" />
 
 
                     <AutoCompleteTextView
-                        android:id="@+id/etDistrict"
+                        android:id="@+id/etCity"
                         android:layout_width="match_parent"
-                        android:layout_height="100dp"
+                        android:layout_height="70dp"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="30dp"
@@ -121,9 +118,8 @@
                         android:textAlignment="center"
                         android:textColor="@color/black"
                         android:textCursorDrawable="@drawable/color_cursor"
-                        android:textSize="50dp"
-                        android:textStyle="bold"
-                        android:focusableInTouchMode="true" />
+                        android:textSize="35dp"
+                        android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -132,7 +128,7 @@
                         android:layout_marginTop="20dp"
                         android:text="@string/TP"
                         android:textColor="@color/textYellow"
-                        android:textSize="50dp"
+                        android:textSize="35dp"
                         android:textStyle="bold" />
 
 
@@ -140,7 +136,7 @@
 
                         android:id="@+id/etTP"
                         android:layout_width="match_parent"
-                        android:layout_height="100dp"
+                        android:layout_height="70dp"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="30dp"
@@ -150,29 +146,26 @@
                         android:textAlignment="center"
                         android:textColor="@color/black"
                         android:textCursorDrawable="@drawable/color_cursor"
-                        android:textSize="50dp"
-                        android:textStyle="bold"
-                        android:focusableInTouchMode="true" />
+                        android:textSize="35dp"
+                        android:textStyle="bold" />
 
                     <Button
                         android:id="@+id/btnNext"
                         android:layout_width="400dp"
-                        android:layout_height="100dp"
+                        android:layout_height="80dp"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="50dp"
                         android:background="@drawable/boder_style"
                         android:text="@string/Next"
                         android:textColor="@color/textYellow"
-                        android:textSize="50dp"
-                        android:textStyle="bold" />
-
-
-                </LinearLayout>
+                        android:textSize="35dp"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="15dp"/>
 
 
             </LinearLayout>
 
-        </ScrollView>
+        </androidx.core.widget.NestedScrollView>
 
     </LinearLayout>
 
