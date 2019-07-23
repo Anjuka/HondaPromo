@@ -9,16 +9,18 @@ public class UserDetails {
     String age;
     String city;
     String tp;
+    String dateTime;
 
     public UserDetails(){
 
     }
 
-    public UserDetails(String name, String age, String city, String tp) {
+    public UserDetails(String name, String age, String city, String tp, String dateTime) {
         this.name = name;
         this.age = age;
         this.city = city;
         this.tp = tp;
+        this.dateTime = dateTime;
     }
 
     public String getName() {
@@ -35,5 +37,8 @@ public class UserDetails {
 
     public String getTp() {
         return tp;
+    }
+    public String getDateTime() {
+        return dateTime;
     }
 }
