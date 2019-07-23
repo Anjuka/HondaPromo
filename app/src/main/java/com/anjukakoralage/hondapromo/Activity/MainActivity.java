@@ -1,8 +1,10 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.anjukakoralage.hondapromo.R;
 
 public class MainActivity extends AppCompatActivity {
 

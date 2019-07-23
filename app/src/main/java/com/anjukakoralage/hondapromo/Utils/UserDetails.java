@@ -1,4 +1,4 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Utils;
 
 /**
  * Created by anjukakoralage on 22,July,2019

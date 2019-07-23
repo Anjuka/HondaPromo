@@ -27,18 +27,18 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="60dp"
-            android:background="@drawable/s_add" />
+            android:background="@drawable/si_add" />
 
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="100dp"
-            android:text="@string/SecondAdd"
+            android:layout_marginTop="80dp"
+            android:text="@string/SixthAdd"
             android:textAlignment="center"
             android:textColor="@color/textYellow"
-            android:textSize="35dp"
+            android:textSize="30dp"
             android:textStyle="bold" />
 
 

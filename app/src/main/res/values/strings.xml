@@ -43,21 +43,68 @@
         custormer trust,are main charactors that needto be concerned?</string>
 
     <!--Third Quistions Screen-->
-    <string name="ThirdQuestion">If so, when you buy a scooter, do you think quality , good brand name, custormer trust,
-are main charactors that need to be concerned?</string>
+    <string name="ThirdQuestion">Do you think your scooter needs a good break system as well as good tyres?</string>
+
+    <!--Fourth Quistions Screen-->
+    <string name="FourthQuestion">Do you need a automatic main lamps (on lamps) for saftety riding?</string>
+
+    <!--Fifth Quistions Screen-->
+    <string name="FifthQuestionM">Are you a mother who thinks about your comfort while riding?</string>
+    <string name="FifthQuestionF">Are you a father who thinks about your comfort while riding?</string>
+    <string name="FifthQuestionB">Are you a brother who thinks about your comfort while riding?</string>
+    <string name="FifthQuestionS">Are you a sister who thinks about your comfort while riding?</string>
+    <string name="FifthQuestionC">Are you a husband &amp; wife who thinks about your comfort while riding?</string>
+
+    <!--Sixth Quistions Screen-->
+    <string name="SixthQuestionM">Are you a mother who think minimizing expenditure?</string>
+    <string name="SixthQuestionF">Are you a father who think minimizing expenditure?</string>
+    <string name="SixthQuestionB">Are you a brother who think minimizing expenditure?</string>
+    <string name="SixthQuestionS">Are you a sister who think minimizing expenditure?</string>
+    <string name="SixthQuestionC">Are you a husband &amp; wife who think minimizing expenditure?</string>
+
+    <!--Seventh Quistions Screen-->
+    <string name="SeventhQuestion">Would you like to ride a scooter which has less maitaniece cost?</string>
 
     <!--Pladge Activity-->
-    <string name="Pladge">I pledged as a (Mother, Father, Brother, Sister, Husband/wife) I surely
-        think about safety, comfort and saving money for my family.</string>
+    <string name="PladgeM">I pledged as a mother. I surely think about safety, comfort and saving money for my family.</string>
+    <string name="PladgeF">I pledged as a father. I surely think about safety, comfort and saving money for my family.</string>
+    <string name="PladgeB">I pledged as a brother. I surely think about safety, comfort and saving money for my family.</string>
+    <string name="PladgeS">I pledged as a sister. I surely think about safety, comfort and saving money for my family.</string>
+    <string name="PladgeC">I pledged as a husband &amp; wife. I surely think about safety, comfort and saving money for my family.</string>
+    <string name="tvPladgeHand">Pledge\n of\n protection</string>
 
     <!--Congrats Activity-->
     <string name="Congats">Congratulation !</string>
     <string name="CongratsText">You have entered in to the Honda final draw successfully.</string>
 
     <!--First Add Screen-->
-    <string name="FirstAdd">Combi Brake System | Tubeless Tires</string>
+    <string name="FirstAdd">Combine Brake System | Tubeless Tires</string>
 
     <!--Second Add Screen-->
-    <string name="SecondAdd">Automatic Headlamp On (AHO )</string>
+    <string name="SecondAdd">Honda motorcycles–Honda bicycles records most sales in Sri Lanka and the world</string>
+
+    <!--Third Add Screen-->
+    <string name="ThirdAdd">• Combi Brake System–bicycle can stop within very low distance safely.\n
+• Tubeless Tires–when tire puncture occurs while riding, tire has special mechanism and wont to leak air quickly
+</string>
+
+    <!--Fouth Add Screen-->
+    <string name="FouthAdd">Automatic Headlamp On (AHO )–Automatic main lamps (On lamps) gives additional safety while riding</string>
+
+    <!--Fifth Add Screen-->
+    <string name="FifthAdd">•Telescopic Front Suspension (Only in Grazia scooter) –it suits for all kind of roads.\n
+•Wider Seat– it gives comfortable riding.\n
+•Spacious 18L Under seat Storage–can carry cargo easily and comfortably.
+</string>
+
+    <!--Sixth Add Screen-->
+    <string name="SixthAdd">• HET Engine–Honda eco HET engine give maximum mileage and saves petrol.\n
+• Eco Speed Indicator–Honda Scooter gives maximum mileage for unit fuel and give indications for your fuel consumption.</string>
+
+    <!--Seventh Add Screen-->
+    <string name="SeventhAdd">•	Maintenance Free Battery (MF Battery)- less maintenance cost for battery.\n
+• Viscous Air Filter- Air filter can use up to 16000Km without exchange.\n
+• Service intervals in Every 4,000 km - Maintenance cost for scooter is low because maintenance should be done after every 4000Km.
+</string>
 
 </resources>

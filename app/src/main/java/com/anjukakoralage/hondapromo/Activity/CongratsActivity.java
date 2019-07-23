@@ -1,24 +1,22 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.widget.TextView;
 
-public class SplashActivity extends AppCompatActivity {
+import com.anjukakoralage.hondapromo.R;
 
-    private TextView tvVersionCode;
+public class CongratsActivity extends AppCompatActivity {
+
     private Handler mWaitHandler = new Handler();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
+        setContentView(R.layout.activity_congrats);
 
-        tvVersionCode = (TextView) findViewById(R.id.tvVersionCode);
-        tvVersionCode.setText("Version " + BuildConfig.VERSION_NAME);
 
         mWaitHandler.postDelayed(new Runnable() {
 
@@ -39,15 +37,7 @@ public class SplashActivity extends AppCompatActivity {
                     ignored.printStackTrace();
                 }
             }
-        }, 4000);  // Give a 5 seconds delay.
-    }
-
-    @Override
-    public void onDestroy() {
-        super.onDestroy();
-
-        //Remove all the callbacks otherwise navigation will execute even after activity is killed or closed.
-        mWaitHandler.removeCallbacksAndMessages(null);
+        }, 5000);  // Give a 5 seconds delay.
     }
 }
 

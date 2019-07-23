@@ -1,4 +1,4 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Quiestions;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class SecondQuiestion extends AppCompatActivity implements View.OnClickListener {
+import com.anjukakoralage.hondapromo.Adds.SecondAdd;
+import com.anjukakoralage.hondapromo.Adds.SeventhAdd;
+import com.anjukakoralage.hondapromo.R;
+
+public class SeventhQuiestion extends AppCompatActivity implements View.OnClickListener {
 
     private Button btnYes;
     private Button btnNo;
@@ -15,8 +19,7 @@ public class SecondQuiestion extends AppCompatActivity implements View.OnClickLi
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second_quiestion);
-
+        setContentView(R.layout.activity_seventh_quiestion);
         btnYes = (Button) findViewById(R.id.btnYes);
         btnYes.setOnClickListener(this);
         btnNo = (Button) findViewById(R.id.btnNo);
@@ -36,7 +39,7 @@ public class SecondQuiestion extends AppCompatActivity implements View.OnClickLi
     }
 
     private void moveOn() {
-        Intent intent = new Intent(getApplicationContext(), SecondAdd.class);
+        Intent intent = new Intent(getApplicationContext(), SeventhAdd.class);
         startActivity(intent);
     }
 }

@@ -32,7 +32,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:text="@string/SecondQuestion"
+                android:text="@string/SeventhQuestion"
                 android:textAlignment="center"
                 android:textColor="@color/textYellow"
                 android:textSize="40dp"

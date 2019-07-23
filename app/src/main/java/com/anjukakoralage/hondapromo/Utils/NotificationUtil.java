@@ -1,4 +1,4 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Utils;
 
 import android.graphics.Color;
 import android.view.View;

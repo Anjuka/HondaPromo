@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashActivity"
+    tools:context=".Activity.SplashActivity"
     android:id="@+id/coordinator">
 
 
@@ -23,36 +23,57 @@
             android:background="@drawable/honda_main_logo" />
 
         <TextView
+            android:id="@+id/tvQui"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="100dp"
-            android:text="@string/Pladge"
+            android:layout_marginTop="70dp"
+            android:text=""
             android:textAlignment="center"
             android:textColor="@color/textYellow"
-            android:textSize="60sp"
-            android:textStyle="bold" />
+            android:textSize="45dp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp" />
 
-        <LinearLayout
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal|center_vertical"
             android:background="@color/colorPrimary"
             android:orientation="vertical"
-            android:layout_marginTop="50dp">
+            android:layout_marginTop="40dp"
+            android:gravity="center_horizontal">
 
-            <Button
+            <ImageButton
                 android:id="@+id/btnPladge"
-                android:layout_width="400dp"
-                android:layout_height="100dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center_vertical"
-                android:background="@drawable/boder_style"
-                android:text="this button will be a hand image"
-                android:textColor="@color/textYellow"
-                android:textSize="30dp"
-                android:textStyle="bold"/>
+                android:background="@drawable/pladge_hand"/>
 
-        </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_alignStart="@+id/btnPladge"
+                android:layout_alignLeft="@+id/btnPladge"
+                android:layout_alignTop="@+id/btnPladge"
+                android:layout_alignEnd="@+id/btnPladge"
+                android:layout_alignRight="@+id/btnPladge"
+                android:layout_alignBottom="@+id/btnPladge"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="252dp"
+                android:layout_marginEnd="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="145dp"
+                android:text="@string/tvPladgeHand"
+                android:textAlignment="center"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="25dp" />
+
+        </RelativeLayout>
 
     </LinearLayout>
 

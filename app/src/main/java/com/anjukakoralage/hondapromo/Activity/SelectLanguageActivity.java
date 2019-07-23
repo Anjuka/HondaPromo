@@ -1,4 +1,4 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
@@ -10,6 +10,9 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.anjukakoralage.hondapromo.R;
+import com.anjukakoralage.hondapromo.Utils.NotificationUtil;
 
 import java.util.Locale;
 

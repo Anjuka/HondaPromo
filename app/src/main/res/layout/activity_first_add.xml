@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashActivity"
+    tools:context=".Activity.SplashActivity"
     android:id="@+id/coordinator">
 
 
@@ -23,13 +23,14 @@
             android:background="@drawable/honda_main_logo" />
 
         <ImageView
-            android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="60dp"
-            android:background="@drawable/tubeless_tyres" />
+            android:background="@drawable/f_add" />
 
 
+<!--
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,14 +41,15 @@
             android:textColor="@color/textYellow"
             android:textSize="35dp"
             android:textStyle="bold" />
+-->
 
 
         <Button
             android:id="@+id/btnNext"
             android:layout_width="400dp"
             android:layout_height="80dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="35dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginTop="150dp"
             android:background="@drawable/boder_style"
             android:text="@string/Next"
             android:textColor="@color/textYellow"

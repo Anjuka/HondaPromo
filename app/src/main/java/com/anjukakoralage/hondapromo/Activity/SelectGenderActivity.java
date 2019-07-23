@@ -1,16 +1,16 @@
-package com.anjukakoralage.hondapromo;
+package com.anjukakoralage.hondapromo.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import java.util.Locale;
+import com.anjukakoralage.hondapromo.Quiestions.FirstQuestion;
+import com.anjukakoralage.hondapromo.R;
 
 public class SelectGenderActivity extends AppCompatActivity implements View.OnClickListener {
 

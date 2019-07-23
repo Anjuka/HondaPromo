@@ -20,20 +20,29 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ThirdQuiestion"></activity>
-        <activity android:name=".SecondAdd" />
-        <activity android:name=".SecondQuiestion" />
-        <activity android:name=".CongratsActivity" />
-        <activity android:name=".PladgeActivity" />
-        <activity android:name=".FirstAdd" />
-        <activity android:name=".FirstQuestion" />
-        <activity android:name=".SelectGenderActivity" />
+        <activity android:name=".Adds.SeventhAdd"></activity>
+        <activity android:name=".Adds.SixthAdd" />
+        <activity android:name=".Adds.FifthAdd" />
+        <activity android:name=".Adds.FouthAdd" />
+        <activity android:name=".Adds.ThirdAdd" />
+        <activity android:name=".Quiestions.SeventhQuiestion" />
+        <activity android:name=".Quiestions.SixethQuiestion" />
+        <activity android:name=".Quiestions.FifthQuiestion" />
+        <activity android:name=".Quiestions.FourthQuiestion" />
+        <activity android:name=".Quiestions.ThirdQuiestion" />
+        <activity android:name=".Adds.SecondAdd" />
+        <activity android:name=".Quiestions.SecondQuiestion" />
+        <activity android:name=".Activity.CongratsActivity" />
+        <activity android:name=".Activity.PladgeActivity" />
+        <activity android:name=".Adds.FirstAdd" />
+        <activity android:name=".Quiestions.FirstQuestion" />
+        <activity android:name=".Activity.SelectGenderActivity" />
         <activity
-            android:name=".DetailFormActivity"
+            android:name=".Activity.DetailFormActivity"
             android:windowSoftInputMode="stateHidden|adjustResize" />
-        <activity android:name=".SelectLanguageActivity" />
+        <activity android:name=".Activity.SelectLanguageActivity" />
         <activity
-            android:name=".SplashActivity"
+            android:name=".Activity.SplashActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,7 +51,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".Activity.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
