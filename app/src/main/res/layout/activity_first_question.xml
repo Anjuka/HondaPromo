@@ -29,10 +29,11 @@
         android:layout_marginTop="50dp">
 
         <TextView
+            android:id="@+id/tvQui"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|center_horizontal"
-            android:text="@string/FirstQuestion"
+            android:text=""
             android:textAlignment="center"
             android:textColor="@color/textYellow"
             android:textSize="40dp"

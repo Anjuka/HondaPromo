@@ -33,7 +33,11 @@
     <string name="No">නැත</string>
 
     <!--First Quistions Screen-->
-    <string name="FirstQuestion">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන මවක්ද?</string>
+    <string name="FirstQuestionM">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන මවක්ද?</string>
+    <string name="FirstQuestionF">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන පියෙක්ද?</string>
+    <string name="FirstQuestionB">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන සහෝදරයෙක්ද?</string>
+    <string name="FirstQuestionS">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන සහෝදරියක්ද?</string>
+    <string name="FirstQuestionC">ඔබ ඔබගේ හා පවුලේ ආරක්ෂාව පිළිඹඳ සිතන අඹුසැමියන්ද?</string>
 
     <!--Second Quistions Screen-->
     <string name="SecondQuestion">එසේනම් ඔබ ස්කූටරයක් මිළදී ගැනීමේදී තත්වයෙන් උසස්, පාරිභෝගික විශ්වාසය දිනාගත් යතුරුපැදි නාමයක් පිලිබදව අවධානය යොමු කරන්නේද?</string>

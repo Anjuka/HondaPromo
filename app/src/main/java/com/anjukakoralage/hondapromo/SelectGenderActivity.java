@@ -74,7 +74,7 @@ public class SelectGenderActivity extends AppCompatActivity implements View.OnCl
     private void setGender(String gender) {
 
         SharedPreferences.Editor editor = getSharedPreferences("genderSelect", Activity.MODE_PRIVATE).edit();
-        editor.putString("Selected_Lang", gender);
+        editor.putString("Selected_Gender", gender);
         editor.apply();
 
     }
