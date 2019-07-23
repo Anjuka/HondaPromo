@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:id="@+id/coordinator">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="450dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/honda_main_logo" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical"
+            android:layout_marginTop="50dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:text="@string/ThirdQuestion"
+                android:textAlignment="center"
+                android:textColor="@color/textYellow"
+                android:textSize="40dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:background="@color/colorPrimary"
+                android:orientation="horizontal"
+                android:weightSum="2"
+                android:layout_marginTop="60dp">
+
+                <Button
+                    android:id="@+id/btnYes"
+                    android:layout_width="400dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:background="@drawable/boder_style"
+                    android:text="@string/Yes"
+                    android:textColor="@color/textYellow"
+                    android:textSize="35dp"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="10dp"/>
+
+                <Button
+                    android:id="@+id/btnNo"
+                    android:layout_width="400dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/boder_style"
+                    android:text="@string/No"
+                    android:textColor="@color/textYellow"
+                    android:textSize="40dp"
+                    android:textStyle="bold"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
