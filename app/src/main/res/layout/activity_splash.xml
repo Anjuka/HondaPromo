@@ -15,20 +15,19 @@
 
         <ImageView
             android:layout_width="wrap_content"
-            android:layout_height="300dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/wadakaraya_logo"
+            android:layout_marginTop="70dp"/>
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="200dp"
             android:background="@drawable/honda_main_logo"
-            android:layout_marginTop="100dp"/>
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center_horizontal"/>
+
 
 <!--
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@drawable/logo"
-            android:layout_marginTop="20dp"
-            android:layout_gravity="center_horizontal"/>
--->
-
-
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -39,6 +38,7 @@
                     android:layout_marginTop="-50dp"
                     android:layout_gravity="center_horizontal"
                     android:textColor="@color/white"/>
+-->
 
     </LinearLayout>
 
