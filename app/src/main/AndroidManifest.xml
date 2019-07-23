@@ -20,7 +20,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SecondAdd"></activity>
+        <activity android:name=".ThirdQuiestion"></activity>
+        <activity android:name=".SecondAdd" />
         <activity android:name=".SecondQuiestion" />
         <activity android:name=".CongratsActivity" />
         <activity android:name=".PladgeActivity" />

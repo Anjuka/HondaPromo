@@ -21,7 +21,7 @@ public class SecondAdd extends AppCompatActivity {
         btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), PladgeActivity.class);
+                Intent intent = new Intent(getApplicationContext(), ThirdQuiestion.class);
                 startActivity(intent);
             }
         });
