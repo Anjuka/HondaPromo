@@ -9,7 +9,7 @@
     <string name="English">English</string>
     <string name="Sinhala">සිංහල</string>
     <string name="Tamil">தமிழ்</string>
-    <string name="languageTitle">Scooty දිනුම් ඇදීම</string>
+    <string name="languageTitle">Honda ආරක්‍ෂාවේ ප්‍රතිඥාව</string>
     <string name="snakBarTitle">English Language Selected...</string>
 
     <!--Detail Screen-->
@@ -20,12 +20,12 @@
     <string name="Next">Next</string>
 
     <!--Gender Screen-->
-    <string name="Topic">You,</string>
+    <string name="Topic">You are a,</string>
     <string name="Mother">Mother</string>
     <string name="Father">Father</string>
     <string name="Brother">Brother</string>
     <string name="Sister">Sister</string>
-    <string name="Couple">Husband &amp; Wife</string>
+    <string name="Couple">Husband/Wife</string>
 
     <!--Answer Buttons-->
     <string name="Yes">Yes</string>
@@ -36,42 +36,41 @@
     <string name="FirstQuestionF">Are you a father who thinks safety about you/ your family?</string>
     <string name="FirstQuestionB">Are you a brother who thinks safety about you/ your family?</string>
     <string name="FirstQuestionS">Are you a sister who thinks safety about you/ your family?</string>
-    <string name="FirstQuestionC">Are you a husband &amp; wife  who thinks safety about you/ your family?</string>
+    <string name="FirstQuestionC">Are you a husband/wife  who thinks safety about you/ your family?</string>
 
     <!--Second Quistions Screen-->
-    <string name="SecondQuestion">If so, when you buy a scooter, do you think quality , good brand name,
-        custormer trust,are main charactors that needto be concerned?</string>
+    <string name="SecondQuestion">If so, when you buy a scooter, do you think quality, good brand name,
+        customer trust, are main characters that need to be concerned?</string>
 
     <!--Third Quistions Screen-->
     <string name="ThirdQuestion">Do you think your scooter needs a good break system as well as good tyres?</string>
 
     <!--Fourth Quistions Screen-->
-    <string name="FourthQuestion">Do you need a automatic main lamps (on lamps) for saftety riding?</string>
+    <string name="FourthQuestion">Do you need a automatic main lamps (on lamps) for safety riding?</string>
 
     <!--Fifth Quistions Screen-->
     <string name="FifthQuestionM">Are you a mother who thinks about your comfort while riding?</string>
     <string name="FifthQuestionF">Are you a father who thinks about your comfort while riding?</string>
     <string name="FifthQuestionB">Are you a brother who thinks about your comfort while riding?</string>
     <string name="FifthQuestionS">Are you a sister who thinks about your comfort while riding?</string>
-    <string name="FifthQuestionC">Are you a husband &amp; wife who thinks about your comfort while riding?</string>
+    <string name="FifthQuestionC">Are you a husband/wife who thinks about your comfort while riding?</string>
 
     <!--Sixth Quistions Screen-->
-    <string name="SixthQuestionM">Are you a mother who think minimizing expenditure?</string>
-    <string name="SixthQuestionF">Are you a father who think minimizing expenditure?</string>
-    <string name="SixthQuestionB">Are you a brother who think minimizing expenditure?</string>
-    <string name="SixthQuestionS">Are you a sister who think minimizing expenditure?</string>
-    <string name="SixthQuestionC">Are you a husband &amp; wife who think minimizing expenditure?</string>
+    <string name="SixthQuestionM">Are you a mother who thinks about minimizing family expenditure?</string>
+    <string name="SixthQuestionF">Are you a father who thinks about minimizing family expenditure?</string>
+    <string name="SixthQuestionB">Are you a brother who thinks about minimizing family expenditure?</string>
+    <string name="SixthQuestionS">Are you a sister who thinks about minimizing family expenditure?</string>
+    <string name="SixthQuestionC">Are you a husband/wife who thinks about minimizing family expenditure?</string>
 
     <!--Seventh Quistions Screen-->
-    <string name="SeventhQuestion">Would you like to ride a scooter which has less maitaniece cost?</string>
+    <string name="SeventhQuestion">Would you like to ride a scooter which has less maintenance cost?</string>
 
     <!--Pladge Activity-->
     <string name="PladgeM">I pledged as a mother. I surely think about safety, comfort and saving money for my family.</string>
     <string name="PladgeF">I pledged as a father. I surely think about safety, comfort and saving money for my family.</string>
     <string name="PladgeB">I pledged as a brother. I surely think about safety, comfort and saving money for my family.</string>
     <string name="PladgeS">I pledged as a sister. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="PladgeC">I pledged as a husband &amp; wife. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="tvPladgeHand">Pledge\n of\n protection</string>
+    <string name="PladgeC">I pledged as a husband/wife. I surely think about safety, comfort and saving money for my family.</string>
 
     <!--Congrats Activity-->
     <string name="Congats">Congratulation !</string>
@@ -84,27 +83,26 @@
     <string name="SecondAdd">Honda motorcycles–Honda bicycles records most sales in Sri Lanka and the world</string>
 
     <!--Third Add Screen-->
-    <string name="ThirdAdd">• Combi Brake System–bicycle can stop within very low distance safely.\n
-• Tubeless Tires–when tire puncture occurs while riding, tire has special mechanism and wont to leak air quickly
-</string>
+    <string name="ThirdAdd">• COMBI Brake System–bicycle can stop within very low distance safely.\n
+• Tubeless Tires–When tire puncture occurs while riding, tire has special mechanism and won\'t leak air quickly.</string>
 
     <!--Fouth Add Screen-->
-    <string name="FouthAdd">Automatic Headlamp On (AHO )–Automatic main lamps (On lamps) gives additional safety while riding</string>
+    <string name="FouthAdd">Automatic Headlamp On (AHO ) – Automatic main lamps (On lamps) gives additional safety while riding</string>
 
     <!--Fifth Add Screen-->
-    <string name="FifthAdd">•Telescopic Front Suspension (Only in Grazia scooter) –it suits for all kind of roads.\n
-•Wider Seat– it gives comfortable riding.\n
-•Spacious 18L Under seat Storage–can carry cargo easily and comfortably.
+    <string name="FifthAdd">•Telescopic Front Suspension (Only in Grazia scooter) – it suits for all kind of roads.\n
+•Wider Seat – it gives comfortable riding.\n
+•Spacious 18L Under seat Storage – it can carry cargo easily and comfortably.
 </string>
 
     <!--Sixth Add Screen-->
-    <string name="SixthAdd">• HET Engine–Honda eco HET engine give maximum mileage and saves petrol.\n
-• Eco Speed Indicator–Honda Scooter gives maximum mileage for unit fuel and give indications for your fuel consumption.</string>
+    <string name="SixthAdd">• HET Engine–Honda eco HET engine gives maximum mileage and saves petrol.\n
+• Eco Speed Indicator–Honda Scooter gives maximum mileage for unit of fuel and gives indications for your fuel consumption.</string>
 
     <!--Seventh Add Screen-->
-    <string name="SeventhAdd">•	Maintenance Free Battery (MF Battery)- less maintenance cost for battery.\n
+    <string name="SeventhAdd">•	Maintenance Free Battery (MF Battery) - less maintenance cost for battery.\n
 • Viscous Air Filter- Air filter can use up to 16000Km without exchange.\n
-• Service intervals in Every 4,000 km - Maintenance cost for scooter is low because maintenance should be done after every 4000Km.
+• Service intervals in every 4,000 km - Maintenance cost is low due to high service intervals.
 </string>
 
 </resources>

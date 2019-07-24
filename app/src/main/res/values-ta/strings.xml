@@ -10,7 +10,7 @@
     <string name="English">English</string>
     <string name="Sinhala">සිංහල</string>
     <string name="Tamil">தமிழ்</string>
-    <string name="languageTitle">Scooty දිනුම් ඇදීම</string>
+    <string name="languageTitle">Honda ආරක්‍ෂාවේ ප්‍රතිඥාව</string>
     <string name="snakBarTitle">சிங்கள மொழி தேர்ந்தெடுத்துள்ளது ...</string>
 
     <!--Detail Screen-->
@@ -33,80 +33,79 @@
     <string name="No">இல்லை</string>
 
     <!--First Quistions Screen-->
-    <string name="FirstQuestionM">Are you a mother who thinks safety about you/ your family?</string>
-    <string name="FirstQuestionF">Are you a father who thinks safety about you/ your family?</string>
-    <string name="FirstQuestionB">Are you a brother who thinks safety about you/ your family?</string>
-    <string name="FirstQuestionS">Are you a sister who thinks safety about you/ your family?</string>
-    <string name="FirstQuestionC">Are you a husband &amp; wife  who thinks safety about you/ your family?</string>
+    <string name="FirstQuestionM">உங்கள் குடும்பத்தைப் பற்றி பாதுகாப்பாக நினைக்கும் தாயா நீங்கள்?</string>
+    <string name="FirstQuestionF">உங்கள் குடும்பத்தைப் பற்றி பாதுகாப்பாக நினைக்கும் தந்தையா நீங்கள்?</string>
+    <string name="FirstQuestionB">உங்கள் குடும்பத்தைப் பற்றி பாதுகாப்பாக நினைக்கும் சகோதரரா?</string>
+    <string name="FirstQuestionS">உங்கள் குடும்பத்தைப் பற்றி பாதுகாப்பாக நினைக்கும் சகோதரியா?</string>
+    <string name="FirstQuestionC">உங்கள் குடும்பத்தைப் பற்றி பாதுகாப்பாக நினைக்கும் நீங்கள் ஒரு கணவன் / மனைவியா?</string>
 
     <!--Second Quistions Screen-->
-    <string name="SecondQuestion">If so, when you buy a scooter, do you think quality , good brand name,
-        custormer trust,are main charactors that needto be concerned?</string>
+    <string name="SecondQuestion">எனவே நீங்கள் ஒரு ஸ்கூட்டரை வாங்கும்போது, அதிக நுகர்வோர் நம்பிக்கை கொண்ட மோட்டார் சைக்கிளை தேடுவீர்களா?</string>
 
     <!--Third Quistions Screen-->
-    <string name="ThirdQuestion">Do you think your scooter needs a good break system as well as good tyres?</string>
+    <string name="ThirdQuestion">உங்கள் ஸ்கூட்டரை இயக்க நல்ல பிரேக் சிஸ்டமும் ,பாதுகாப்பான ஜோடி டயர்களும் தேவையா?</string>
 
     <!--Fourth Quistions Screen-->
-    <string name="FourthQuestion">Do you need a automatic main lamps (on lamps) for saftety riding?</string>
+    <string name="FourthQuestion">உங்கள் பாதுகாப்பான இயக்கத்திற்கு இயல்பாக இயங்கும் ஹெட்லைட் தேவையா?</string>
 
     <!--Fifth Quistions Screen-->
-    <string name="FifthQuestionM">Are you a mother who thinks about your comfort while riding?</string>
-    <string name="FifthQuestionF">Are you a father who thinks about your comfort while riding?</string>
-    <string name="FifthQuestionB">Are you a brother who thinks about your comfort while riding?</string>
-    <string name="FifthQuestionS">Are you a sister who thinks about your comfort while riding?</string>
-    <string name="FifthQuestionC">Are you a husband &amp; wife who thinks about your comfort while riding?</string>
+    <string name="FifthQuestionM">உங்கள் மற்றும் உங்கள் குடும்பத்தின் ஆறுதல் பற்றி சிந்திக்கும் தாயா?</string>
+    <string name="FifthQuestionF">உங்கள் மற்றும் உங்கள் குடும்பத்தின் ஆறுதல் பற்றி சிந்திக்கும் தந்தையா?</string>
+    <string name="FifthQuestionB">உங்கள் மற்றும் உங்கள் குடும்பத்தின் ஆறுதல் பற்றி சிந்திக்கும் சகோதரியா?</string>
+    <string name="FifthQuestionS">உங்கள் மற்றும் உங்கள் குடும்பத்தின் ஆறுதல் பற்றி சிந்திக்கும் சகோதரனா?</string>
+    <string name="FifthQuestionC">உங்கள் மற்றும் உங்கள் குடும்பத்தின் ஆறுதல் பற்றி சிந்திக்கும் கணவன்/மனைவியா?</string>
 
     <!--Sixth Quistions Screen-->
-    <string name="SixthQuestionM">Are you a mother who think minimizing expenditure?</string>
-    <string name="SixthQuestionF">Are you a father who think minimizing expenditure?</string>
-    <string name="SixthQuestionB">Are you a brother who think minimizing expenditure?</string>
-    <string name="SixthQuestionS">Are you a sister who think minimizing expenditure?</string>
-    <string name="SixthQuestionC">Are you a husband &amp; wife who think minimizing expenditure?</string>
+    <string name="SixthQuestionM">உங்கள் மற்றும் உங்கள் குடும்பத்தின் நிதிகளை நிர்வகிக்கும் தாயா?</string>
+    <string name="SixthQuestionF">உங்கள் மற்றும் உங்கள் குடும்பத்தின் நிதிகளை நிர்வகிக்கும் தந்தையா?</string>
+    <string name="SixthQuestionB">உங்கள் மற்றும் உங்கள் குடும்பத்தின் நிதிகளை நிர்வகிக்கும் சகோதரியா?</string>
+    <string name="SixthQuestionS">உங்கள் மற்றும் உங்கள் குடும்பத்தின் நிதிகளை நிர்வகிக்கும் சகோதரனா?</string>
+    <string name="SixthQuestionC">உங்கள் மற்றும் உங்கள் குடும்பத்தின் நிதிகளை நிர்வகிக்கும் கணவன்/மனைவியா?</string>
 
     <!--Seventh Quistions Screen-->
-    <string name="SeventhQuestion">Would you like to ride a scooter which has less maitaniece cost?</string>
+    <string name="SeventhQuestion">நீங்கள் குறைந்தபட்ச பராமரிப்பு செலவுகளுடன் ஸ்கூட்டரை இயக்க விரும்புகின்றீர்களா? உங்கள் மற்றும் உங்கள் குடும்பத்தின் நிதிகளை நிர்வகிக்கும் தாயா?</string>
 
 
     <!--Pladge Activity-->
-    <string name="PladgeM">I pledged as a mother. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="PladgeF">I pledged as a father. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="PladgeB">I pledged as a brother. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="PladgeS">I pledged as a sister. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="PladgeC">I pledged as a husband &amp; wife. I surely think about safety, comfort and saving money for my family.</string>
-    <string name="tvPladgeHand">பாதுகாப்பு உறுதிமொழி</string>
+    <string name="PladgeM">நான் உறுதியளித்தேன் ஒரு தாய் எனது குடும்பத்திற்கான பாதுகாப்பு பற்றி நான் நிச்சயமாக நினைக்கிறேன் மற்றும் பணத்தை குடும்பத்திற்காக மிச்சப்படுத்துறேன்</string>
+    <string name="PladgeF">நான் உறுதியளித்தேன் ஒரு தந்தையா எனது குடும்பத்திற்கான பாதுகாப்பு பற்றி நான் நிச்சயமாக நினைக்கிறேன் மற்றும் பணத்தை குடும்பத்திற்காக மிச்சப்படுத்துறேன்</string>
+    <string name="PladgeB">நான் உறுதியளித்தேன் ஒரு சகோதரர் எனது குடும்பத்திற்கான பாதுகாப்பு பற்றி நான் நிச்சயமாக நினைக்கிறேன் மற்றும் பணத்தை குடும்பத்திற்காக மிச்சப்படுத்துறேன்</string>
+    <string name="PladgeS">நான் உறுதியளித்தேன் ஒரு கணவர் எனது குடும்பத்திற்கான பாதுகாப்பு பற்றி நான் நிச்சயமாக நினைக்கிறேன் மற்றும் பணத்தை குடும்பத்திற்காக மிச்சப்படுத்துறேன்</string>
+    <string name="PladgeC">நான் உறுதியளித்தேன் ஒரு மனைவியாக எனது குடும்பத்திற்கான பாதுகாப்பு பற்றி நான் நிச்சயமாக நினைக்கிறேன் மற்றும் பணத்தை குடும்பத்திற்காக மிச்சப்படுத்துறேன்</string>
 
     <!--Congrats Activity-->
-    <string name="Congats">Congratulation !</string>
+    <string name="Congats">வாழ்த்துக்கள் !</string>
     <string name="CongratsText">நீங்கள் Honda இறுதி சீட்டிழுப்பு போட்டிக்குள் வெற்றிகரமாக இணைக்கப்பட்டுள்ளீர்கள்.</string>
 
     <!--First Add Screen-->
     <string name="FirstAdd">Combi Brake System | Tubeless Tires</string>
 
     <!--Second Add Screen-->
-    <string name="SecondAdd">Honda motorcycles–Honda bicycles records most sales in Sri Lanka and the world</string>
+    <string name="SecondAdd">Honda motorcycles - இவை இலங்கை மற்றும் உலகில் விற்பனையாகும் மோட்டார் சைக்கிள் வகையாகும்.</string>
 
     <!--Third Add Screen-->
-    <string name="ThirdAdd">• Combi Brake System–bicycle can stop within very low distance safely.\n
-• Tubeless Tires–when tire puncture occurs while riding, tire has special mechanism and wont to leak air quickly
+    <string name="ThirdAdd">• Combi Brake System - ஸ்கூட்டரை மிக குறுகிய தூரத்தில் பாதுகாப்பாக நிறுத்தலாம்\n
+• Tubeless Tires - வாகனம் ஓட்டும்போது டயர் திடீர் காற்று கசிவதை தடுக்கின்றது
 </string>
 
     <!--Fouth Add Screen-->
-    <string name="FouthAdd">Automatic Headlamp On (AHO )–Automatic main lamps (On lamps) gives additional safety while riding</string>
+    <string name="FouthAdd">Automatic Headlamp On (AHO ) - சுய லைட் பிரதான விளக்கு இயங்கும் போது அதிக பாதுகாப்பை தருகின்றது</string>
 
     <!--Fifth Add Screen-->
-    <string name="FifthAdd">•Telescopic Front Suspension (Only in Grazia scooter) –it suits for all kind of roads.\n
-•Wider Seat– it gives comfortable riding.\n
-•Spacious 18L Under seat Storage–can carry cargo easily and comfortably.
+    <string name="FifthAdd">• Telescopic Front Suspension (Only in Grazia scooter) - எந்த சாலையிலும் வாகனத்தை எளிதாக ஓட்டலாம்\n
+• Wider Seat - உங்களுக்கு  வசதியான  சவாரி  அளிக்கிறது\n
+• Spacious 18L Under seat Storage - உங்கள் பொருட்கள் மற்றும் உடமைகளை எளிதாக எடுத்து செல்லலாம்
 </string>
 
     <!--Sixth Add Screen-->
-    <string name="SixthAdd">• HET Engine–Honda eco HET engine give maximum mileage and saves petrol.\n
-• Eco Speed Indicator–Honda Scooter gives maximum mileage for unit fuel and give indications for your fuel consumption.</string>
+    <string name="SixthAdd">• HET Engine - Honda Eco உங்கள் என்ஜின் ஒரு லீட்டர் பெற்றோலில் அதிக தூரம் செல்ல உதவுகிறது
+• Eco Speed Indicator - Honda எப்போது இயங்குகின்றது மற்றும் அதிகபட்ச எரிபொருள் செயல்திறன் பற்றிய யோசனையை வழங்குகிறது
+</string>
 
     <!--Seventh Add Screen-->
-    <string name="SeventhAdd">•	Maintenance Free Battery (MF Battery)- less maintenance cost for battery.\n
-• Viscous Air Filter- Air filter can use up to 16000Km without exchange.\n
-• Service intervals in Every 4,000 km - Maintenance cost for scooter is low because maintenance should be done after every 4000Km.
+    <string name="SeventhAdd">•	Maintenance Free Battery (MF Battery)- பெட்டரி பராமரிப்பை குறைகின்றது
+• Viscous Air Filter- 16000Kmவரை காற்று வடிகட்டியை மாற்ற அவசியமில்லை
+• Service intervals in Every 4,000 kms -  ஒவ்வொரு 4000Km உம் ஒருமுறை இந்த சேவை செய்யப்படவேண்டும் என்பதால்  ஸ்கூட்டர் பராமரிப்பு செலவு மிகவும் குறைவு
 </string>
 
 

@@ -20,6 +20,7 @@ public class FirstQuestion extends AppCompatActivity implements View.OnClickList
     private String gender;
     String genderText;
     private TextView quiestion;
+    private String answer;
 
 
     @Override
@@ -64,17 +65,21 @@ public class FirstQuestion extends AppCompatActivity implements View.OnClickList
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btnYes:
-                moveOn();
+                answer = "yes";
+                moveOn(answer);
                 break;
             case R.id.btnNo:
-                moveOn();
+                answer = "no";
+                moveOn(answer);
                 break;
         }
     }
 
-    private void moveOn() {
+    private void moveOn(String answer) {
         Intent intent = new Intent(getApplicationContext(), FirstAdd.class);
+        intent.putExtra("firstAnswer",answer);
         startActivity(intent);
+
     }
 }
 

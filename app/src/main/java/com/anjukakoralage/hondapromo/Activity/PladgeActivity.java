@@ -14,7 +14,7 @@ import android.widget.TextView;
 import com.anjukakoralage.hondapromo.Adds.FirstAdd;
 import com.anjukakoralage.hondapromo.R;
 
-public class PladgeActivity extends AppCompatActivity implements View.OnClickListener {
+public class PladgeActivity extends AppCompatActivity {
 
     private ImageButton btnPladge;
     private String gender;
@@ -27,17 +27,8 @@ public class PladgeActivity extends AppCompatActivity implements View.OnClickLis
         setContentView(R.layout.activity_pladge);
 
         btnPladge = (ImageButton) findViewById(R.id.btnPladge);
-
-        btnPladge.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), CongratsActivity.class);
-                startActivity(intent);
-            }
-        });
-
-
         quiestion = (TextView) findViewById(R.id.tvQui);
+
 
         SharedPreferences preferences = getSharedPreferences("genderSelect", Activity.MODE_PRIVATE);
         gender = preferences.getString("Selected_Gender", "");
@@ -45,6 +36,7 @@ public class PladgeActivity extends AppCompatActivity implements View.OnClickLis
         switch (gender) {
             case "mother":
                 genderText = String.format(getResources().getString(R.string.PladgeM));
+                quiestion.setText(genderText);
                 break;
             case "father":
                 genderText = String.format(getResources().getString(R.string.PladgeF));
@@ -63,22 +55,14 @@ public class PladgeActivity extends AppCompatActivity implements View.OnClickLis
                 quiestion.setText(genderText);
                 break;
         }
+
+        btnPladge.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), CongratsActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.btnYes:
-                moveOn();
-                break;
-            case R.id.btnNo:
-                moveOn();
-                break;
-        }
-    }
-
-    private void moveOn() {
-        Intent intent = new Intent(getApplicationContext(), FirstAdd.class);
-        startActivity(intent);
-    }
 }

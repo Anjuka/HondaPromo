@@ -26,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="40dp"
             android:background="@drawable/t_add" />
 
 
@@ -34,12 +34,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="25dp"
             android:text="@string/ThirdAdd"
-            android:textAlignment="center"
+            android:lineSpacingExtra="5dp"
             android:textColor="@color/textYellow"
             android:textSize="35dp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"/>
 
 
         <Button

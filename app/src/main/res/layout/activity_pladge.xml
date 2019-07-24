@@ -28,52 +28,21 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="70dp"
-            android:text=""
             android:textAlignment="center"
             android:textColor="@color/textYellow"
-            android:textSize="45dp"
+            android:textSize="35dp"
+            android:text=""
             android:textStyle="bold"
             android:fontFamily="sans-serif-black"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp" />
 
-        <RelativeLayout
-            android:layout_width="match_parent"
+        <ImageButton
+            android:id="@+id/btnPladge"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@color/colorPrimary"
-            android:orientation="vertical"
-            android:layout_marginTop="40dp"
-            android:gravity="center_horizontal">
-
-            <ImageButton
-                android:id="@+id/btnPladge"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal|center_vertical"
-                android:background="@drawable/pladge_hand"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-
-                android:layout_alignStart="@+id/btnPladge"
-                android:layout_alignLeft="@+id/btnPladge"
-                android:layout_alignTop="@+id/btnPladge"
-                android:layout_alignEnd="@+id/btnPladge"
-                android:layout_alignRight="@+id/btnPladge"
-                android:layout_alignBottom="@+id/btnPladge"
-                android:layout_marginStart="0dp"
-                android:layout_marginLeft="0dp"
-                android:layout_marginTop="252dp"
-                android:layout_marginEnd="0dp"
-                android:layout_marginRight="0dp"
-                android:layout_marginBottom="145dp"
-                android:text="@string/tvPladgeHand"
-                android:textAlignment="center"
-                android:textColor="@color/colorPrimaryDark"
-                android:textSize="25dp" />
-
-        </RelativeLayout>
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:background="@drawable/fingerprind_pladge"/>
 
     </LinearLayout>
 

@@ -10,7 +10,7 @@
     <string name="English">English</string>
     <string name="Sinhala">සිංහල</string>
     <string name="Tamil">தமிழ்</string>
-    <string name="languageTitle">Scooty දිනුම් ඇදීම</string>
+    <string name="languageTitle">Honda ආරක්‍ෂාවේ ප්‍රතිඥාව</string>
     <string name="snakBarTitle">සිංහල භාෂාව තෝරාගෙන ඇත ...</string>
 
     <!--Detail Screen-->
@@ -71,7 +71,6 @@
     <string name="PladgeB">මම පවුලේ ආරක්ෂාව, සැපපහසුව සහ ඉතිරිය ගැන හිතන සහෝදරයෙක් ලෙස ප්‍රතිඥා දෙමි.</string>
     <string name="PladgeS">මම පවුලේ ආරක්ෂාව, සැපපහසුව සහ ඉතිරිය ගැන හිතන සහෝදරියක් ලෙස ප්‍රතිඥා දෙමි.</string>
     <string name="PladgeC">අපි පවුලේ ආරක්ෂාව, සැපපහසුව සහ ඉතිරිය ගැන හිතන අඹුසැමියන් ලෙස ප්‍රතිඥා දෙමු.</string>
-    <string name="tvPladgeHand">ආරක්ෂාවේ\n ප්‍රතිඥාව</string>
 
     <!--Congrats Activity-->
     <string name="Congats">සුභපැතුම් !</string>
@@ -84,7 +83,7 @@
     <string name="SecondAdd">Honda motorcycles - හොන්ඩා ශ්‍රි‍ ලංකාවේ හා ලෝකයේ වැඩිම අලෙවියක් සහිත යතුරුපැදි මාදිලිය වේ.</string>
 
     <!--Third Add Screen-->
-    <string name="ThirdAdd">• Combi Brake System - ඉතා අඩු දුරකදී ආරක්ශාකාරීව ස්කූටරය නවත්වා ගත හැක.\n
+    <string name="ThirdAdd">• COMBI Brake System - ඉතා අඩු දුරකදී ආරක්ශාකාරීව ස්කූටරය නවත්වා ගත හැක.\n
 • Tubeless Tires - ධාවනය අතරතුරදී ටයර පලූදු වීමෙන් සිදුවන ක්ෂණික හුලන් කාන්දුවීම් වළක්වාලයි .
 </string>
 

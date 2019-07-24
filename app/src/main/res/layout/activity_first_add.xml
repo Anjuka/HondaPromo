@@ -23,11 +23,11 @@
             android:background="@drawable/honda_main_logo" />
 
         <ImageView
+            android:id="@+id/ivOk"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="60dp"
-            android:background="@drawable/f_add" />
+            android:layout_marginTop="60dp" />
 
 
 <!--
